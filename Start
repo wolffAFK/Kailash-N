@@ -1,0 +1,41 @@
+<html>
+
+ <title>AI Webpage</title>
+
+  <body background="C:\Users\Kailash\Desktop\ai-time.jpg">
+
+   <h1 style="color:white">ARTIFICIAL INTELLIGENCE: THE FUTURE OF OUR WORLD</h1>
+
+    <p style="color:white"><font size="+3">In this webpage, you will learn the basics of Artificial Intelligence</font size="+3"></p>
+     <p style="color:white"><font size="+3">Select the chapter you want to learn and it will redirect you to its webpage: </font size="+3"></p>
+      <br>
+      <a href="C:\Users\Kailash\Desktop\what is ai.html">
+       <font size="+3">What is AI?
+        </a>
+         <br>
+         <br>
+         <a href="C:\Users\Kailash\Desktop\history of ai.html">
+          <font size="+3">History of AI
+           </a>
+           <br>
+           <br>
+            <a href="C:\Users\Kailash\Desktop\domains of ai.html">
+          <font size="+3">Domains of AI
+           </a>
+           <br>
+           <br>
+            <a href="C:\Users\Kailash\Desktop\advantage.html">
+            <font size="+3">Advantages annd Disadvantages
+            </a>
+            <br>
+            <br>
+             <a href="C:\Users\Kailash\Desktop\application.html">
+            <font size="+3">Applications of AI
+             </a>
+              
+
+
+  </body>
+
+
+</HTML>
